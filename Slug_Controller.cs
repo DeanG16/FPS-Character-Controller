@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 
-
 [RequireComponent( typeof( CharacterController ) )]
 public class Slug_Controller : MonoBehaviour
 {
